@@ -24,7 +24,11 @@ xampp/htdocs (for wamp wamp/www, for lamp var/www/html).
 
 • Run the script http://localhost/sharose for frontend
 
-• Credentials for admin login are: Username: admin Password: anjalitejal2001 (can
+• Credentials for admin login are:
+
+Username: admin 
+
+Password: anjalitejal2001 (can
 be changed later as desired)
 
 Group Members :
